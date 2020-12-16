@@ -1,4 +1,4 @@
-# Iris Görselleştirme ve Sınıflandırma
+# iris Görselleştirme ve Sınıflandırma
 ## 1. Veri Analizi
 ## 2. Veri Görselleştirme
 ## 3. Veri Ön İşleme
