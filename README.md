@@ -1,5 +1,7 @@
 <h1 align="center"> IRIS Görselleştirme ve Sınıflandırma </h1>
 
+<p align="center"> <img src="https://i.gifer.com/3sCX.gif" /> </p>
+
 * Veri Analizi
 * Veri Görselleştirme
 * Veri Ön İşleme
