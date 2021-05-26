@@ -1,6 +1,6 @@
 <h1 align="center"> IRIS Görselleştirme ve Sınıflandırma </h1>
 
-<p align="center"> <img src="https://i.gifer.com/3sCX.gif" /> </p>
+<p align="center"> <img src="https://y.yarn.co/057f3c14-e86c-4ec6-af36-6e40928ae8e2_text.gif" /> </p>
 
 * Veri Analizi
 * Veri Görselleştirme
